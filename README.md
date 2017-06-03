@@ -81,6 +81,44 @@ npm run build
 
 - Ver referência no repositório [Aprenda ES6 (JavaScript)](https://github.com/aferreira44/aprenda-es6-javascript)
 
+### Immutable Data Structures
+
+- Por quê elas fazem sentido em React e no seu eco-sistema?
+
+### ReactDOM
+
+- `ReactDOM.render()` espera 2 argumentos:
+    - um JSX que será renderizado.
+    - o lugar onde o React renderizá dentro do HTML.
+
+Exemplo:
+
+```js
+ReactDOM.render(<App />, document.getElementById('root'));
+```
+
+- [Rendering Elements](https://facebook.github.io/react/docs/rendering-elements.html)
+
+### Hot Module Reloading
+
+- Evitar carregamento da página quando realiza alteração no código.
+- Mantém o log no developer console.
+- Mantém o estado da aplicação.
+
+- Inserir código abaixo no final do entry-point `index.js`
+
+```js
+if (module.hot){
+    module.hot.accept()
+}
+```
+
+- [Dan Abramov - Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
+
+### Key attribute `<div key={item.objectID}>`
+
+- [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
