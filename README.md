@@ -71,6 +71,16 @@ npm run build
 1. Explore e conheça melhor o código dos arquivos criados
 1. Leia mais sobre o pacote [`create-react-app no Github`](https://github.com/facebookincubator/create-react-app)
 
+## Introdução a JSX
+
+- [DOM Elements](https://facebook.github.io/react/docs/dom-elements.html)
+- [Introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
+- [React Components, Elements, and Instances](https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html)
+
+### ES6 `const` e `let`
+
+- Ver referência no repositório [Aprenda ES6 (JavaScript)](https://github.com/aferreira44/aprenda-es6-javascript)
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
