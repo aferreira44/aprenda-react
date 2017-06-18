@@ -119,6 +119,38 @@ if (module.hot){
 
 - [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
 
+- **Conceitos de Javascript por trás do React**
+
+Object.assign()
+Object.freeze()
+spread operator (...this.state.object)
+
+Component and PureComponent
+
+setState()
+
+Arrays são Objects
+
+Evitar métodos mutáveis de arrays: push, pop, shift, unshift, splice, sort, reverse
+
+Usar métodos imutáveis de array que retornam um novo array ou novo objeto: map, filter, reduce, every, some, slice
+
+key field para renderizar arrays no DOM
+
+Evitar efeitos colaterais com operadores: ++, -- e delete
+
+Pure functions - render() method and functional components
+
+Nome de Componente começa com maiúscula
+
+Expressões ternárias
+
+Short circuit && e ||
+
+!! transforma para o equivalete booleano
+
+Context(this) bind methods
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
