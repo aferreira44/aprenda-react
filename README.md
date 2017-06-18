@@ -151,6 +151,8 @@ Short circuit && e ||
 
 Context(this) bind methods
 
+Components: stateful and stateless (o ideal é que os componentes sejam stateless)
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
