@@ -157,3 +157,4 @@ Components: stateful and stateless (o ideal é que os componentes sejam stateles
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
 - [Livro - The Road to Learn React](https://leanpub.com/the-road-to-learn-react)
+- [React Blog](https://facebook.github.io/react/blog/)
