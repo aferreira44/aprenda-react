@@ -127,6 +127,24 @@ if (module.hot){
 
 [State and Lifecycle](https://facebook.github.io/react/docs/state-and-lifecycle.html)
 
+### React Events
+
+[Handling Events](https://facebook.github.io/react/docs/handling-events.html)
+
+### React Forms
+
+[React Forms](https://facebook.github.io/react/docs/forms.html)
+
+### Components and Props
+
+#### this.props
+
+[Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
+
+### Composition vs Inheritance
+
+[Composition vs Inheritance](https://facebook.github.io/react/docs/composition-vs-inheritance.html)
+
 - **Conceitos de Javascript por trás do React**
 
 Object.assign()
