@@ -81,6 +81,10 @@ npm run build
 
 - Ver referência no repositório [Aprenda ES6 (JavaScript)](https://github.com/aferreira44/aprenda-es6-javascript)
 
+### ES6 Classes
+
+
+
 ### Immutable Data Structures
 
 - Por quê elas fazem sentido em React e no seu eco-sistema?
@@ -118,6 +122,10 @@ if (module.hot){
 ### Key attribute `<div key={item.objectID}>`
 
 - [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
+
+### State and Lifecycle
+
+[State and Lifecycle](https://facebook.github.io/react/docs/state-and-lifecycle.html)
 
 - **Conceitos de Javascript por trás do React**
 
