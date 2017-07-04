@@ -179,6 +179,10 @@ Context(this) bind methods
 
 Components: stateful and stateless (o ideal é que os componentes sejam stateless)
 
+### Components and Props
+
+[Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
