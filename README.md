@@ -183,8 +183,21 @@ Components: stateful and stateless (o ideal é que os componentes sejam stateles
 
 [Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
 
+### React Styling
+
+- [FormidableLabs/radium](https://github.com/FormidableLabs/radium)
+- [Khan/aphrodite](https://github.com/Khan/aphrodite)
+- [styled-components/styled-components](https://github.com/styled-components/styled-components)
+- [css-modules/css-modules](https://github.com/css-modules/css-modules)
+
+### Lifecycle Methods
+
+- [React.Component](https://facebook.github.io/react/docs/react-component.html)
+- [State and Lifecycle](https://facebook.github.io/react/docs/state-and-lifecycle.html)
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
 - [Livro - The Road to Learn React](https://leanpub.com/the-road-to-learn-react)
+- [React Documentation](https://facebook.github.io/react/)
 - [React Blog](https://facebook.github.io/react/blog/)
