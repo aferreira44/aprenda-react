@@ -200,6 +200,10 @@ Components: stateful and stateless (o ideal é que os componentes sejam stateles
 [All the Conditional Renderings in React](https://www.robinwieruch.de/conditional-rendering-react/)
 [Conditional Rendering](https://facebook.github.io/react/docs/conditional-rendering.html)
 
+### Synthetic Event
+
+[Synthetic Event](https://facebook.github.io/react/docs/events.html)
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
