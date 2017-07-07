@@ -195,6 +195,11 @@ Components: stateful and stateless (o ideal é que os componentes sejam stateles
 - [React.Component](https://facebook.github.io/react/docs/react-component.html)
 - [State and Lifecycle](https://facebook.github.io/react/docs/state-and-lifecycle.html)
 
+### Conditional Rendering
+
+[All the Conditional Renderings in React](https://www.robinwieruch.de/conditional-rendering-react/)
+[Conditional Rendering](https://facebook.github.io/react/docs/conditional-rendering.html)
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
