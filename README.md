@@ -214,6 +214,16 @@ Components: stateful and stateless (o ideal é que os componentes sejam stateles
 - [Testing React Apps](https://facebook.github.io/jest/docs/en/tutorial-react.html)
 - [Snapshot Testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
 
+### Enzyme - Unit Tests
+
+- [Enzyme](https://github.com/airbnb/enzyme)
+
+
+### Ref Attribute
+
+- [Refs and the DOM](https://facebook.github.io/react/docs/refs-and-the-dom.html)
+- [When to use React's Ref on a DOM node in React](https://www.robinwieruch.de/react-ref-attribute-dom-node/)
+
 ## Referências
 
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
