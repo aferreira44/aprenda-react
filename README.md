@@ -183,6 +183,10 @@ Components: stateful and stateless (o ideal é que os componentes sejam stateles
 
 [Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
 
+### Typechecking With PropTypes
+
+[Typechecking With PropTypes](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)
+
 ### React Styling
 
 - [FormidableLabs/radium](https://github.com/FormidableLabs/radium)
