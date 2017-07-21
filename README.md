@@ -201,12 +201,18 @@ Components: stateful and stateless (o ideal é que os componentes sejam stateles
 
 ### Conditional Rendering
 
-[All the Conditional Renderings in React](https://www.robinwieruch.de/conditional-rendering-react/)
-[Conditional Rendering](https://facebook.github.io/react/docs/conditional-rendering.html)
+- [All the Conditional Renderings in React](https://www.robinwieruch.de/conditional-rendering-react/)
+- [Conditional Rendering](https://facebook.github.io/react/docs/conditional-rendering.html)
 
 ### Synthetic Event
 
 [Synthetic Event](https://facebook.github.io/react/docs/events.html)
+
+### Jest Testing Framework
+
+- [Jest](https://facebook.github.io/jest/)
+- [Testing React Apps](https://facebook.github.io/jest/docs/en/tutorial-react.html)
+- [Snapshot Testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
 
 ## Referências
 
